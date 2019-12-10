@@ -51,34 +51,34 @@ In conclusion, we found that our website was pretty basic and there were a lot o
 
 # **Usability Testing Notes**
 First Notes - 
-  -Easily found the examples page and was easily able to play the music
-  -Was able to find the contact page and able to get to where you can book an appointment
-  -Found the rates tab but wallet had a small heart attack when seeing the prices
-  -Showing the student discount could be a good idea
-  -About tab looks a little barren (could add a little to it) but it works
-  -Examples could get some sort of label to be able to let people know what each track is
-  -Could get some more images overall and possibly find a real studio :shrug: and maybe take photos with a real camera :shrug:
-  -Possibly could rearrange the tabs to make more sense for what a consumer would look at each time
+  - Easily found the examples page and was easily able to play the music
+  - Was able to find the contact page and able to get to where you can book an appointment
+  - Found the rates tab but wallet had a small heart attack when seeing the prices
+  - Showing the student discount could be a good idea
+  - About tab looks a little barren (could add a little to it) but it works
+  - Examples could get some sort of label to be able to let people know what each track is
+  - Could get some more images overall and possibly find a real studio :shrug: and maybe take photos with a real camera :shrug:
+  - Possibly could rearrange the tabs to make more sense for what a consumer would look at each time
 Second Notes – 
-  -Again was easily able to find the examples and play pieces of music
-  -All tracks play over each other if not paused
-  -Found the chart for booking a time slot
-  -Found the rates section with ease when prompted to
-  -Possibly take the underlines off of our tabs
-  -Add pictures with the examples
-  -Possibly blow up picture and make it clearer using Photoshop-Can’t
-  -Possibly change the banner from a solid green and maybe put an image of a photo board
-  -Add a little more to the rates tab
-  -Add “references” of who he has worked with in the past (famous people)
-  -Remove white space at the bottom of our border with the photos (find code for that online)
-  -Add social media at the bottom for pseudo links
-  -Find a way to make the sign up link into a new tab
-  -Make up awards?
-  -Maybe what shows he has played or things like that
-  -Center the text to make it look a bit more natural-Changed
+  - Again was easily able to find the examples and play pieces of music
+  - All tracks play over each other if not paused
+  - Found the chart for booking a time slot
+  - Found the rates section with ease when prompted to
+  - Possibly take the underlines off of our tabs
+  - Add pictures with the examples
+  - Possibly blow up picture and make it clearer using Photoshop-Can’t
+  - Possibly change the banner from a solid green and maybe put an image of a photo board
+  - Add a little more to the rates tab
+  - Add “references” of who he has worked with in the past (famous people)
+  - Remove white space at the bottom of our border with the photos (find code for that online)
+  - Add social media at the bottom for pseudo links
+  - Find a way to make the sign up link into a new tab
+  - Make up awards?
+  - Maybe what shows he has played or things like that
+  - Center the text to make it look a bit more natural-Changed
 Sarachan –
-  -Don’t need the underlines- Changed
-  -Maybe a little more of a change in the color of the rollover on the links-Changed
-  -Banner is a little too big
-  -Put the music link and title for music in a container (margin: 0 auto)-Changed
-  -Iframe the time slot booking- Tried was too small
+  - Don’t need the underlines- Changed
+  - Maybe a little more of a change in the color of the rollover on the links-Changed
+  - Banner is a little too big
+  - Put the music link and title for music in a container (margin: 0 auto)-Changed
+  - Iframe the time slot booking- Tried was too small
