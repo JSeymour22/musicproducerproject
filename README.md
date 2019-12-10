@@ -50,7 +50,7 @@ https://rjtnx5.axshare.com -This is the link to the Axure page for our Mockup. I
 In conclusion, we found that our website was pretty basic and there were a lot of things we could have changed. But for a freelance music producer this website does reflect the experience they would have making a website. For the size of the photos we were pretty restricted since they were really blurry on our phone. The website navigation overall was pretty easy to follow according to the information from our usability testing. Little details like the color on the “rollover” effect in the navigation was changed as well as the underline that was originally there. I think if we had more time and were more experienced as a group we could improve the site even more. This was a great project and easy to follow the group worked together to make this understandable for all of us to code together. 
 
 # **Usability Testing Notes**
-First Notes - 
+- First Notes - 
   - Easily found the examples page and was easily able to play the music
   - Was able to find the contact page and able to get to where you can book an appointment
   - Found the rates tab but wallet had a small heart attack when seeing the prices
@@ -59,7 +59,7 @@ First Notes -
   - Examples could get some sort of label to be able to let people know what each track is
   - Could get some more images overall and possibly find a real studio :shrug: and maybe take photos with a real camera :shrug:
   - Possibly could rearrange the tabs to make more sense for what a consumer would look at each time
-Second Notes – 
+- Second Notes – 
   - Again was easily able to find the examples and play pieces of music
   - All tracks play over each other if not paused
   - Found the chart for booking a time slot
@@ -76,7 +76,7 @@ Second Notes –
   - Make up awards?
   - Maybe what shows he has played or things like that
   - Center the text to make it look a bit more natural-Changed
-Sarachan –
+- Sarachan –
   - Don’t need the underlines- Changed
   - Maybe a little more of a change in the color of the rollover on the links-Changed
   - Banner is a little too big
