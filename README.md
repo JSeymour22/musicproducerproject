@@ -30,21 +30,21 @@ The audience that would be using this site is mostly teenagers and younger demog
 https://docs.google.com/spreadsheets/d/1t7YuhZ21McB712kToW22EVk_znftWqWGSueWGTEsKvI/edit#gid=0 - This leads “Ehsan’s Schedule” to book an appointment. This can also be found on the link at the bottom of the Contact page. 
 
 # **Market Profile/Persona 1**
-**Place Holder for the image**
+![alt text](https://github.com/JSeymour22/musicproducerproject/blob/master/Images/Screenshot%20(36).png)
 
 # **Market Profile/Persona 2**
-**Place Holder for image**
+![alt text](https://github.com/JSeymour22/musicproducerproject/blob/master/Images/Screenshot%20(35).png)
 
 # **Competitive Analysis**
 https://docs.google.com/spreadsheets/d/1R_RPU5wPAs7d9rCE2MKKVJdPbRioUKYPUH1cT7isGCY/edit#gid=0
 
 # **Preliminary Mockup/Axure**
 The font choice for this web page would look modern or very “techy”. For example: https://fonts.google.com/specimen/Rajdhani, https://fonts.google.com/specimen/Dosis .These font looks modern but are still easy to read which is what we want the page to look like. As for the color we might do like black and white or earthy tones like a green to represent that modern, “techy” feel. For example: This color palette is really nice because it’s not dark and it still gives off the modern vibe. Also, we wanted our favicon to have the colors and modern font to match. 
-**Place holder for palette image**
+![alt text](https://github.com/JSeymour22/musicproducerproject/blob/master/Images/Screenshot%20(37).png)
 https://rjtnx5.axshare.com -This is the link to the Axure page for our Mockup. If it doesn’t work email hmc04448@sjfc.edu and I will send the ScreenShots. 
 
 # **Information Architecture**
-**Place holder for image**
+![alt text](https://github.com/JSeymour22/musicproducerproject/blob/master/Images/Screenshot%20(38).png)
 
 # **Conclusion**
 In conclusion, we found that our website was pretty basic and there were a lot of things we could have changed. But for a freelance music producer this website does reflect the experience they would have making a website. For the size of the photos we were pretty restricted since they were really blurry on our phone. The website navigation overall was pretty easy to follow according to the information from our usability testing. Little details like the color on the “rollover” effect in the navigation was changed as well as the underline that was originally there. I think if we had more time and were more experienced as a group we could improve the site even more. This was a great project and easy to follow the group worked together to make this understandable for all of us to code together. 
